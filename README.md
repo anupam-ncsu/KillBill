@@ -31,3 +31,5 @@ the above example would terminate and replace each EC2 Instance in the Auto Scal
 
 ## 
 
+## References 
+Featured in a medium article [here](https://anupam-ncsu.medium.com/auto-recycle-asg-nodes-behind-a-load-balancer-126c6c1ed051  )
